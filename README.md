@@ -17,12 +17,6 @@ Este proyecto tiene como objetivo realizar un análisis de datos y crear un mode
 
 3. Instala las bibliotecas requeridas.
 
-
-## Uso
-
-- Ejecuta el notebook `analisis_de_datos.ipynb` para realizar el análisis exploratorio de los datos.
-- Ejecuta el notebook `modelo_machine_learning.ipynb` para entrenar y evaluar el modelo de Machine Learning.
-
 ## Contribuciones
 
 Siéntete libre de realizar contribuciones, abrir issues o reportar errores. ¡Tu ayuda es bienvenida!
